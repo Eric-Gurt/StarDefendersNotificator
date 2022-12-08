@@ -1,0 +1,11 @@
+{
+    "name": "Star Defenders 2D notificator",
+    "main": "index.html",
+    "window": {
+        "width": 800,
+        "height": 600,
+	"icon": "assets/com16.png",
+	"position": "center",
+	"show_in_taskbar": false
+    }
+}
